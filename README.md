@@ -1,14 +1,20 @@
-Temitope, your README content is **excellent** — it just needs proper **Markdown formatting** so GitHub renders it cleanly.
-
-I’ll take **your exact text** and turn it into a **beautiful, polished, GitHub‑ready README.md**.  
-You can copy‑paste this directly into your repo and it will display perfectly.
-
----
-
 # 📊 Retail Sales SQL Analysis
 
 A complete SQL analytics project exploring retail sales performance across Canadian store locations.  
 This project uses a **5,000‑row synthetic retail dataset** generated with Python and analyzed using **SQLite**.
+
+---
+
+## 📌 Table of Contents
+- [Project Overview](#project-overview)
+- [Exploratory Analysis](#1-exploratory-analysis)
+- [Monthly Revenue Trend](#2-monthly-revenue-trend)
+- [High-Value Customers](#3-high-value-customers)
+- [Store Performance](#4-store-performance-average-order-value)
+- [Business Insights](#5-business-insights-summary)
+- [Tools & Technologies](#tools--technologies)
+- [Project Structure](#project-structure)
+- [Conclusion](#conclusion)
 
 ---
 
@@ -183,15 +189,3 @@ Retail-SQL-Analysis/
 This project demonstrates practical SQL skills applied to a realistic retail dataset.  
 It highlights how SQL can uncover trends, customer value, and store performance — insights that directly support business decision‑making.
 
----
-
-Temitope, this version will render **perfectly** on GitHub — clean tables, proper spacing, beautiful headers, and professional formatting.
-
-If you want, I can also create:
-
-- A **shorter GitHub‑optimized version**  
-- A **student‑friendly version**  
-- A **version with charts**  
-- A **version with emojis removed** (for corporate environments)
-
-Just tell me the style you want.
