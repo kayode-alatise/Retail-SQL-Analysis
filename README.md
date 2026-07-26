@@ -1,11 +1,11 @@
-# 📊 Retail Sales SQL Analysis
+# Retail Sales SQL Analysis
 
 A complete SQL analytics project exploring retail sales performance across Canadian store locations.  
 This project uses a **5,000‑row synthetic retail dataset** generated with Python and analyzed using **SQLite**.
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 - [Project Overview](#project-overview)
 - [Exploratory Analysis](#1-exploratory-analysis)
 - [Monthly Revenue Trend](#2-monthly-revenue-trend)
@@ -18,7 +18,7 @@ This project uses a **5,000‑row synthetic retail dataset** generated with Pyth
 
 ---
 
-## 📁 Project Overview
+## Project Overview
 
 This project demonstrates end‑to‑end SQL analysis, including:
 
@@ -44,7 +44,7 @@ This project demonstrates end‑to‑end SQL analysis, including:
 
 ---
 
-## 🔍 1. Exploratory Analysis
+## 1. Exploratory Analysis
 
 Basic checks to understand store distribution:
 
@@ -61,7 +61,7 @@ Order distribution is balanced across stores, with Ottawa slightly leading. This
 
 ---
 
-## 📈 2. Monthly Revenue Trend
+## 2. Monthly Revenue Trend
 
 | Month   | Total Revenue |
 |---------|---------------|
@@ -100,7 +100,7 @@ Order distribution is balanced across stores, with Ottawa slightly leading. This
 
 ---
 
-## 👥 3. High‑Value Customers
+## 3. High‑Value Customers
 
 | Customer ID | Name           | Total Spent | Orders |
 |-------------|----------------|-------------|--------|
@@ -122,7 +122,7 @@ This supports targeted retention strategies such as loyalty programs or personal
 
 ---
 
-## 🏬 4. Store Performance (Average Order Value)
+## 4. Store Performance (Average Order Value)
 
 | Store Location | Avg Order Value |
 |----------------|-----------------|
@@ -140,7 +140,7 @@ This supports targeted retention strategies such as loyalty programs or personal
 
 ---
 
-## 🧠 5. Business Insights Summary
+## 5. Business Insights Summary
 
 ### Seasonality
 - Strong peaks in **December** and **January**.  
@@ -156,7 +156,7 @@ This supports targeted retention strategies such as loyalty programs or personal
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Python** (data generation)  
 - **SQLite** (database + SQL analysis)  
@@ -165,7 +165,7 @@ This supports targeted retention strategies such as loyalty programs or personal
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Retail-SQL-Analysis/
@@ -184,7 +184,7 @@ Retail-SQL-Analysis/
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 This project demonstrates practical SQL skills applied to a realistic retail dataset.  
 It highlights how SQL can uncover trends, customer value, and store performance — insights that directly support business decision‑making.
